@@ -33,3 +33,7 @@
 - [2502] **[Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research](https://arxiv.org/pdf/2502.04644)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Junde Wu, Jiayuan Zhu, Yuyuan Liu*
   - [Code 💻] [Agentic-Reasoning](https://github.com/theworldofagents/Agentic-Reasoning) ![Star](https://img.shields.io/github/stars/theworldofagents/Agentic-Reasoning.svg?style=social&label=Star)
+
+## Embedding Model
+- [2502] **[O1 Embedder: Let Retrievers Think Before Action](https://arxiv.org/pdf/2502.07555)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
+  - Ruiran Yan, Zheng Liu, Defu Lian
