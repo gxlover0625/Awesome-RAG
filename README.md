@@ -50,4 +50,5 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
 - [LightRAG](https://github.com/HKUDS/LightRAG) Simple and Fast Retrieval-Augmented Generation. ![Star](https://img.shields.io/github/stars/HKUDS/LightRAG.svg?style=social&label=Star)
 
 ## ❤️ Awesome Teams
-- [Open RAG Base](https://openrag.notion.site/open-rag-base) A Notion repository of RAG knowledge that is built upon the collection, organization, and aggregation of publicly available resource.
+- [Open RAG Base](https://openrag.notion.site/open-rag-base) A Notion repository of RAG knowledge that is built upon the collection, organization, and aggregation of publicly available resource. 
+  - Developed by **Tongji University & Fudan University**
