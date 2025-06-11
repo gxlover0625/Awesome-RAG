@@ -45,6 +45,9 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
 - [2502] **[O1 Embedder: Let Retrievers Think Before Action](https://arxiv.org/pdf/2502.07555)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - Ruiran Yan, Zheng Liu, Defu Lian
 
-## Open-Source RAG Projects
+## 🌐 Open-Source RAG Projects
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) An open-source, offline-deployable RAG and Agent project based on ChatGLM and Langchain. ![Star](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat.svg?style=social&label=Star)
 - [LightRAG](https://github.com/HKUDS/LightRAG) Simple and Fast Retrieval-Augmented Generation. ![Star](https://img.shields.io/github/stars/HKUDS/LightRAG.svg?style=social&label=Star)
+
+## ❤️ Awesome Teams
+- [Open RAG Base](https://openrag.notion.site/open-rag-base) A Notion repository of RAG knowledge that is built upon the collection, organization, and aggregation of publicly available resource.
