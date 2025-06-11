@@ -24,11 +24,10 @@
   - *Qinyuan Cheng, Xiaonan Li, Shimin Li, Qin Zhu, Zhangyue Yin, Yunfan Shao, Linyang Li, Tianxiang Sun, Hang Yan, Xipeng Qiu*
   - [Code 💻] [UAR](https://github.com/xiami2019/UAR) ![Star](https://img.shields.io/github/stars/xiami2019/UAR.svg?style=social&label=Star)
 
-### RL+RAG
-Using reinforcement learning to augment RAG 
-| 标题 | 机构 | 日期 | 代码 |  评分 |
-|  -  |   - |   -    |   -    |   -    |
-|  [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.05592) <br> ![Citation](https://img.shields.io/badge/citation-2-green)  |  RUC |   2025.3 <br> ![Arxiv](https://img.shields.io/badge/Arxiv-red)       |   [R1-Searcher](https://github.com/RUCAIBox/R1-Searcher) <br>  ![Star](https://img.shields.io/github/stars/RUCAIBox/R1-Searcher.svg?style=social&label=Star)     |   ⭐️⭐️  |
+## Reinforcement Learning
+- [2503] **[R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.05592)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
+  - *Huatong Song, Jinhao Jiang, Yingqian Min, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen*
+  - [Code 💻] [R1-Searcher](https://github.com/RUCAIBox/R1-Searcher) ![Star](https://img.shields.io/github/stars/RUCAIBox/R1-Searcher.svg?style=social&label=Star) 
 
 ### Agentic RAG
 | 标题 | 机构 | 日期 | 代码 |  评分 |
