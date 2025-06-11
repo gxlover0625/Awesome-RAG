@@ -7,6 +7,9 @@
 
 </div>
 
+## 🔥 News
+- **2025.06**: This repository shares the latest papers, tools, and open-source projects in the field and will be regularly updated.
+
 ## Survey
 - [2312] **[Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Meng Wang, Haofen Wang*
