@@ -13,20 +13,6 @@
 ## 🌟 Introduction
 I am a researcher specializing in RAG technology at Zhejiang University. This curated repository has been established with the aim of sharing cutting-edge papers, innovative technologies, and notable open-source projects within this domain. 
 
-<details>
-  <summary>🗂️ Table of Contents</summary>
-  <ol>
-    <li><a href="#Survey">Survey</a></li>
-    <li><a href="#Technique">Technique</a>
-      <ul>
-        <li><a href="#Chain-of-Retrieval">Chain-of-Retrieval</a></li>
-        <li><a href="#Active Retrieval">Active Retrieval</a></li>
-        <li><a href="#Reinforcement Learning">Reinforcement Learning</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
 ## Survey
 - [2312] **[Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Meng Wang, Haofen Wang*
@@ -58,3 +44,7 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
 ## Embedding Model
 - [2502] **[O1 Embedder: Let Retrievers Think Before Action](https://arxiv.org/pdf/2502.07555)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - Ruiran Yan, Zheng Liu, Defu Lian
+
+## Open-Source RAG Projects
+- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) An open-source, offline-deployable RAG and Agent project based on ChatGLM and Langchain. ![Star](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat.svg?style=social&label=Star)
+- [LightRAG](https://github.com/HKUDS/LightRAG) Simple and Fast Retrieval-Augmented Generation. ![Star](https://img.shields.io/github/stars/HKUDS/LightRAG.svg?style=social&label=Star)
