@@ -11,19 +11,13 @@
 - [2312] **[Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Meng Wang, Haofen Wang*
   - [Code 💻] [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) ![Star](https://img.shields.io/github/stars/Tongji-KGLLM/RAG-Survey.svg?style=social&label=Star)
-
-## Papers (Sort by Time of Release)📄
-### Survey
-| 标题 | 机构 | 日期 | 代码 |  评分 |
-|  -  |   - |   -    |   -    |   -    |
-|  [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)   <br> ![Citation](https://img.shields.io/badge/citation-2046-green)    |  Tongji |   2023.12 <br> ![Arxiv](https://img.shields.io/badge/Arxiv-red)         |   [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey)   <br>  ![Star](https://img.shields.io/github/stars/Tongji-KGLLM/RAG-Survey.svg?style=social&label=Star)   |   ⭐️⭐️  |
-
-### Chain-of-Retrieval
-Retrieval Step by Step
-| 标题 | 机构 | 日期 | 代码 |  评分 |
-|  -  |   - |   -    |   -    |   -    |
-|  [DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://arxiv.org/pdf/2502.01142) <br> ![Citation](https://img.shields.io/badge/citation-9-green)  |  Chinese Academy of Sciences|   2025.2 <br> ![Arxiv](https://img.shields.io/badge/Arxiv-red)       |   -  |   ⭐️⭐️  |
-|  [Chain-of-Retrieval Augmented Generation](https://arxiv.org/pdf/2501.14342) <br> ![Citation](https://img.shields.io/badge/citation-17-green)  |  Microsoft|   2025.1 <br> ![Arxiv](https://img.shields.io/badge/Arxiv-red)       |   [corag](https://github.com/microsoft/LMOps/tree/main/corag) <br>  ![Star](https://img.shields.io/github/stars/microsoft/LMOps.svg?style=social&label=Star)   |   ⭐️⭐️⭐️  | 
+  
+## Chain-of-Retrieval
+- [2502] **[DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://arxiv.org/pdf/2502.01142)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
+  - *Xinyan Guan, Jiali Zeng, Fandong Meng, Chunlei Xin, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Jie Zhou*
+- [2501] **[Chain-of-Retrieval Augmented Generation](https://arxiv.org/pdf/2501.14342)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
+  - *Liang Wang, Haonan Chen, Nan Yang, Xiaolong Huang, Zhicheng Dou, Furu Wei*
+  - [Code 💻] [corag](https://github.com/microsoft/LMOps/tree/main/corag) ![Star](https://img.shields.io/github/stars/microsoft/LMOps.svg?style=social&label=Star)
 
 ### Active Retrieval
 Determining whether to retrieve
