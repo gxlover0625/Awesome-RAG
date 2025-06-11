@@ -10,7 +10,7 @@
 ## Survey
 - [2312] **[Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Meng Wang, Haofen Wang*
-  - [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) ![Star](https://img.shields.io/github/stars/Tongji-KGLLM/RAG-Survey.svg?style=social&label=Star)
+  - [Code 💻] [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) ![Star](https://img.shields.io/github/stars/Tongji-KGLLM/RAG-Survey.svg?style=social&label=Star)
 
 ## Papers (Sort by Time of Release)📄
 ### Survey
