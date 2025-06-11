@@ -13,6 +13,20 @@
 ## 🌟 Introduction
 I am a researcher specializing in RAG technology at Zhejiang University. This curated repository has been established with the aim of sharing cutting-edge papers, innovative technologies, and notable open-source projects within this domain. 
 
+<details>
+  <summary>🗂️ Table of Contents</summary>
+  <ol>
+    <li><a href="#survey">Survey</a></li>
+    <li><a href="#technique">Technique</a>
+      <ul>
+        <li><a href="#llm">Chain-of-Retrieval</a></li>
+        <li><a href="#mllm">🧠 Multimodal Reasoning in Large Language Models</a></li>
+        <li><a href="#lm">🤏 Scaling Smaller Language Models to Reason</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
 ## Survey
 - [2312] **[Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Meng Wang, Haofen Wang*
