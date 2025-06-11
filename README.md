@@ -8,7 +8,10 @@
 </div>
 
 ## 🔥 News
-- **2025.06**: This repository shares the latest papers, tools, and open-source projects in the field and will be regularly updated.
+- **2025.06**: This repository shares the latest papers, tools, and open-source projects in the field and **will be regularly updated**.
+
+## 🌟 Introduction
+I am a researcher specializing in RAG technology at Zhejiang University. This curated repository has been established with the aim of sharing cutting-edge papers, innovative technologies, and notable open-source projects within this domain. 
 
 ## Survey
 - [2312] **[Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
