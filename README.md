@@ -16,12 +16,12 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
 <details>
   <summary>🗂️ Table of Contents</summary>
   <ol>
-    <li><a href="#survey">Survey</a></li>
-    <li><a href="#technique">Technique</a>
+    <li><a href="#Survey">Survey</a></li>
+    <li><a href="#Technique">Technique</a>
       <ul>
         <li><a href="#Chain-of-Retrieval">Chain-of-Retrieval</a></li>
-        <li><a href="#mllm">🧠 Multimodal Reasoning in Large Language Models</a></li>
-        <li><a href="#lm">🤏 Scaling Smaller Language Models to Reason</a></li>
+        <li><a href="#Active Retrieval">Active Retrieval</a></li>
+        <li><a href="#Reinforcement Learning">Reinforcement Learning</a></li>
       </ul>
     </li>
   </ol>
