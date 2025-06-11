@@ -22,12 +22,7 @@
 ## Active Retrieval
 - [2406] **[Unified Active Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2406.12534)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Qinyuan Cheng, Xiaonan Li, Shimin Li, Qin Zhu, Zhangyue Yin, Yunfan Shao, Linyang Li, Tianxiang Sun, Hang Yan, Xipeng Qiu*
-  - [Code 💻] [UAR](https://github.com/xiami2019/UAR) ![Star](https://img.shields.io/github/stars/xiami2019/UAR.svg?style=social&label=Star) 
-
-
-| 标题 | 机构 | 日期 | 代码 |  评分 |
-|  -  |   - |   -    |   -    |   -    |
-|  [Unified Active Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2406.12534) <br> ![Citation](https://img.shields.io/badge/citation-11-green)  |  Fudan University |   2024.6 <br> ![Arxiv](https://img.shields.io/badge/Arxiv-red)       |   [UAR](https://github.com/xiami2019/UAR) <br>  ![Star](https://img.shields.io/github/stars/xiami2019/UAR.svg?style=social&label=Star)   |   ⭐️  |
+  - [Code 💻] [UAR](https://github.com/xiami2019/UAR) ![Star](https://img.shields.io/github/stars/xiami2019/UAR.svg?style=social&label=Star)
 
 ### RL+RAG
 Using reinforcement learning to augment RAG 
