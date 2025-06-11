@@ -8,7 +8,7 @@
 </div>
 
 ## 🔥 News
-- **2025.06**: This repository shares the latest papers, tools, and open-source projects in the field and **will be regularly updated**.
+- **2025.06**: This repository shares the latest papers, tools, and open-source projects in the RAG field and **will be regularly updated**.
 
 ## 🌟 Introduction
 I am a researcher specializing in RAG technology at Zhejiang University. This curated repository has been established with the aim of sharing cutting-edge papers, innovative technologies, and notable open-source projects within this domain. 
