@@ -29,7 +29,7 @@
   - *Huatong Song, Jinhao Jiang, Yingqian Min, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen*
   - [Code 💻] [R1-Searcher](https://github.com/RUCAIBox/R1-Searcher) ![Star](https://img.shields.io/github/stars/RUCAIBox/R1-Searcher.svg?style=social&label=Star) 
 
-### Agentic RAG
-| 标题 | 机构 | 日期 | 代码 |  评分 |
-|  -  |   - |   -    |   -    |   -    |
-|  [Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research](https://arxiv.org/pdf/2502.04644) <br> ![Citation](https://img.shields.io/badge/citation-17-green)  |  University of Oxford|   2025.2 <br> ![Arxiv](https://img.shields.io/badge/Arxiv-red)       |   [Agentic-Reasoning](https://github.com/theworldofagents/Agentic-Reasoning) <br>  ![Star](https://img.shields.io/github/stars/theworldofagents/Agentic-Reasoning.svg?style=social&label=Star)  |   ⭐️  |
+## Agentic RAG
+- [2502] **[Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research](https://arxiv.org/pdf/2502.04644)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
+  - *Junde Wu, Jiayuan Zhu, Yuyuan Liu*
+  - [Code 💻] [Agentic-Reasoning](https://github.com/theworldofagents/Agentic-Reasoning) ![Star](https://img.shields.io/github/stars/theworldofagents/Agentic-Reasoning.svg?style=social&label=Star)
