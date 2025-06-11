@@ -19,7 +19,7 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
     <li><a href="#survey">Survey</a></li>
     <li><a href="#technique">Technique</a>
       <ul>
-        <li><a href="#llm">Chain-of-Retrieval</a></li>
+        <li><a href="#Chain-of-Retrieval">Chain-of-Retrieval</a></li>
         <li><a href="#mllm">🧠 Multimodal Reasoning in Large Language Models</a></li>
         <li><a href="#lm">🤏 Scaling Smaller Language Models to Reason</a></li>
       </ul>
