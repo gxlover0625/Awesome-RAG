@@ -30,6 +30,9 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
 - [2406] **[Unified Active Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2406.12534)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Qinyuan Cheng, Xiaonan Li, Shimin Li, Qin Zhu, Zhangyue Yin, Yunfan Shao, Linyang Li, Tianxiang Sun, Hang Yan, Xipeng Qiu*
   - [Code 💻] [UAR](https://github.com/xiami2019/UAR) ![Star](https://img.shields.io/github/stars/xiami2019/UAR.svg?style=social&label=Star)
+- [2310] **[Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/pdf/2310.11511)** ![ICLR2023](https://img.shields.io/badge/ICLR-2023-blue)
+  - *Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi*
+  - [Code 💻] [self-rag](https://github.com/AkariAsai/self-rag) ![Star](https://img.shields.io/github/stars/AkariAsai/self-rag.svg?style=social&label=Star)
 
 ### Reinforcement Learning
 - [2503] **[R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.05592)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
