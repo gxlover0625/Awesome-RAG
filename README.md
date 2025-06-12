@@ -30,6 +30,9 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
 - [2406] **[Unified Active Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2406.12534)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Qinyuan Cheng, Xiaonan Li, Shimin Li, Qin Zhu, Zhangyue Yin, Yunfan Shao, Linyang Li, Tianxiang Sun, Hang Yan, Xipeng Qiu*
   - [Code 💻] [UAR](https://github.com/xiami2019/UAR) ![Star](https://img.shields.io/github/stars/xiami2019/UAR.svg?style=social&label=Star)
+
+<br/>
+
 - [2403] **[Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/pdf/2403.14403)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong C. Park*
   - [Code 💻] [Adaptive-RAG](https://github.com/starsuzi/Adaptive-RAG) ![Star](https://img.shields.io/github/stars/starsuzi/Adaptive-RAG.svg?style=social&label=Star)
