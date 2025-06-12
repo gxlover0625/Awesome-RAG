@@ -22,6 +22,9 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
 ### Chain-of-Retrieval
 - [2502] **[DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://arxiv.org/pdf/2502.01142)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Xinyan Guan, Jiali Zeng, Fandong Meng, Chunlei Xin, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Jie Zhou*
+
+<br/>
+
 - [2501] **[Chain-of-Retrieval Augmented Generation](https://arxiv.org/pdf/2501.14342)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Liang Wang, Haonan Chen, Nan Yang, Xiaolong Huang, Zhicheng Dou, Furu Wei*
   - [Code 💻] [corag](https://github.com/microsoft/LMOps/tree/main/corag) ![Star](https://img.shields.io/github/stars/microsoft/LMOps.svg?style=social&label=Star)
@@ -36,6 +39,9 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
 - [2403] **[Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/pdf/2403.14403)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong C. Park*
   - [Code 💻] [Adaptive-RAG](https://github.com/starsuzi/Adaptive-RAG) ![Star](https://img.shields.io/github/stars/starsuzi/Adaptive-RAG.svg?style=social&label=Star)
+
+<br/>
+
 - [2310] **[Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/pdf/2310.11511)** ![ICLR2023](https://img.shields.io/badge/ICLR-2023-blue)
   - *Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi*
   - [Code 💻] [self-rag](https://github.com/AkariAsai/self-rag) ![Star](https://img.shields.io/github/stars/AkariAsai/self-rag.svg?style=social&label=Star)
