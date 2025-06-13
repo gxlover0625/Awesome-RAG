@@ -46,6 +46,12 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
   - *Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi*
   - [Code 💻] [self-rag](https://github.com/AkariAsai/self-rag) ![Star](https://img.shields.io/github/stars/AkariAsai/self-rag.svg?style=social&label=Star)
 
+<br/>
+
+- [2305] **[Active Retrieval Augmented Generation](https://arxiv.org/pdf/2305.06983)** ![EMNLP2023](https://img.shields.io/badge/EMNLP-2023-blue)
+  - *Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig*
+  - [Code 💻] [FLARE](https://github.com/jzbjyb/FLARE) ![Star](https://img.shields.io/github/stars/jzbjyb/FLARE.svg?style=social&label=Star)
+
 ### Reinforcement Learning
 - [2503] **[R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.05592)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Huatong Song, Jinhao Jiang, Yingqian Min, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen*
