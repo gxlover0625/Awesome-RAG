@@ -42,9 +42,21 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
 
 <br/>
 
+- [2402] **[Retrieve Only When It Needs: Adaptive Retrieval Augmentation for Hallucination Mitigation in Large Language Models](https://arxiv.org/pdf/2402.10612)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
+  - *Hanxing Ding, Liang Pang, Zihao Wei, Huawei Shen, Xueqi Cheng*
+  - [Code 💻] [Rowen](https://github.com/dhx20150812/Rowen) ![Star](https://img.shields.io/github/stars/dhx20150812/Rowen.svg?style=social&label=Star)
+
+<br/>
+
 - [2310] **[Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/pdf/2310.11511)** ![ICLR2023](https://img.shields.io/badge/ICLR-2023-blue)
   - *Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi*
   - [Code 💻] [self-rag](https://github.com/AkariAsai/self-rag) ![Star](https://img.shields.io/github/stars/AkariAsai/self-rag.svg?style=social&label=Star)
+  
+<br/>
+
+- [2305] **[Active Retrieval Augmented Generation](https://arxiv.org/pdf/2305.06983)** ![EMNLP2023](https://img.shields.io/badge/EMNLP-2023-blue)
+  - *Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig*
+  - [Code 💻] [FLARE](https://github.com/jzbjyb/FLARE) ![Star](https://img.shields.io/github/stars/jzbjyb/FLARE.svg?style=social&label=Star)
 
 ### Reinforcement Learning
 - [2503] **[R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.05592)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
