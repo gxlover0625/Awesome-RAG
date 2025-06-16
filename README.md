@@ -36,6 +36,12 @@ I am a researcher specializing in RAG technology at Zhejiang University. This cu
 
 <br/>
 
+- [2403] **[DRAGIN: Dynamic Retrieval Augmented Generation based on the Information Needs of Large Language Models](https://arxiv.org/pdf/2403.10081)** ![ACL2024](https://img.shields.io/badge/ACL-2024-blue)
+  - *Weihang Su, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu*
+  - [Code 💻] [DRAGIN](https://github.com/oneal2000/DRAGIN) ![Star](https://img.shields.io/github/stars/oneal2000/DRAGIN.svg?style=social&label=Star)
+
+<br/>
+
 - [2403] **[Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/pdf/2403.14403)** ![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red)
   - *Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, Jong C. Park*
   - [Code 💻] [Adaptive-RAG](https://github.com/starsuzi/Adaptive-RAG) ![Star](https://img.shields.io/github/stars/starsuzi/Adaptive-RAG.svg?style=social&label=Star)
